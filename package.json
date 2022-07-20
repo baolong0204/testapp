@@ -5,7 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "buildTest": "ng build --base-href /testapp/ --deploy-url /testapp/ --configuration production",
+    "buildTest": "ng build --base-href /testapp/ --baseHref-url /testapp/ --configuration production",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
